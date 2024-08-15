@@ -1727,7 +1727,7 @@
             "version": "7.1.1",
             "source": {
                 "type": "git",
-                "url": "https://gitlab.wol-soft.de/wol-soft-public/wol-soft-core.git",
+                "url": "https://gitlab.wol-soft.site/wol-soft-public/wol-soft-core.git",
                 "reference": "2272ebe8d185582ec636488ab65a9b12b47bcca6"
             },
             "require": {
