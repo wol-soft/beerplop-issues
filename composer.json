@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url":  "https://gitlab.wol-soft.de/wol-soft-public/wol-soft-core.git"
+      "url":  "https://gitlab.wol-soft.site/wol-soft-public/wol-soft-core.git"
     }
   ],
   "require": {
